@@ -61,6 +61,10 @@ AI를 활용하여 기업 관련 정보를 요약하고,
 전체 시스템은
 `사용자 입력 → (워크플로우 처리 → AI 분석 → JSON 결과 생성) → 프론트엔드 렌더링`
 의 흐름으로 동작하도록 설계되었습니다.
+
+
+
+웹페이지 캡처, 페이지 하단에는 채용 정보 작성되어있음.
 <img width="877" height="888" alt="image" src="https://github.com/user-attachments/assets/891dc307-c053-48fe-be9e-ebc6d68ee50e" />
 
 ---
