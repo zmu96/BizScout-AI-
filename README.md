@@ -61,6 +61,7 @@ AI를 활용하여 기업 관련 정보를 요약하고,
 전체 시스템은
 `사용자 입력 → (워크플로우 처리 → AI 분석 → JSON 결과 생성) → 프론트엔드 렌더링`
 의 흐름으로 동작하도록 설계되었습니다.
+<img width="877" height="888" alt="image" src="https://github.com/user-attachments/assets/891dc307-c053-48fe-be9e-ebc6d68ee50e" />
 
 ---
 
@@ -89,4 +90,3 @@ AI 분석 결과는 다음과 같은 JSON 구조를 기준으로 정의되었습
     }
   ]
 }
-<img width="877" height="888" alt="image" src="https://github.com/user-attachments/assets/2234dc11-1b84-45e0-a839-fe654a5bc087" />
