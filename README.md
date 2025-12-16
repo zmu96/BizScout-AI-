@@ -89,3 +89,4 @@ AI 분석 결과는 다음과 같은 JSON 구조를 기준으로 정의되었습
     }
   ]
 }
+<img width="877" height="888" alt="image" src="https://github.com/user-attachments/assets/2234dc11-1b84-45e0-a839-fe654a5bc087" />
