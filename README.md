@@ -64,11 +64,11 @@ AI를 활용하여 기업 관련 정보를 요약하고,
 
 
 N8N 노드 구성
-<img width="350" height="362" alt="image" src="https://github.com/user-attachments/assets/04202343-bc5d-4d41-8381-e2800384ed63" />
+<img width="550" height="600" alt="image" src="https://github.com/user-attachments/assets/04202343-bc5d-4d41-8381-e2800384ed63" />
 
 
 웹페이지 캡처, 페이지 하단에는 채용 정보 작성되어있음.
-<img width="350" height="888" alt="image" src="https://github.com/user-attachments/assets/891dc307-c053-48fe-be9e-ebc6d68ee50e" />
+<img width="800" height="888" alt="image" src="https://github.com/user-attachments/assets/891dc307-c053-48fe-be9e-ebc6d68ee50e" />
 
 ---
 
